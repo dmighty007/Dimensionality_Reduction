@@ -2,7 +2,7 @@
 # Dimensionality Reduction
 
 Kinetic dimensionality reduction using classical and modern machine learning approaches.
-
+![Demo Animation](assets/output.gif)
 ## 🧠 Overview
 
 This repository explores both classical and non-classical techniques for reducing the dimensionality of molecular dynamics and time-series data while preserving slow dynamical modes and kinetics.
